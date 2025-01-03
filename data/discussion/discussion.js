@@ -1,0 +1,20 @@
+export const discussion =[
+    {
+        id:1,
+        title:'美图',
+        context:'今天天气真好',
+        images:[require('../../images/My/头像.jpg'),require('../../images/My/头像.jpg'),]
+    },
+    {
+        id:2,
+        title:'美图',
+        context:'今天天气真好',
+        images:[require('../../images/My/头像.jpg'),require('../../images/My/头像.jpg'),]
+    },
+    {
+        id:3,
+        title:'美图',
+        context:'今天天气真好',
+        images:[require('../../images/My/头像.jpg'),require('../../images/My/头像.jpg'),]
+    }
+]
