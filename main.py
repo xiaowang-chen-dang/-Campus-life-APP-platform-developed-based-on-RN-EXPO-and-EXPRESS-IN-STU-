@@ -14,8 +14,6 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 # 登录信息
-# username = "22yxchen72"
-# password = "xp688534"
 app = Flask(__name__)
 CORS(app)  # 启用 CORS
 
